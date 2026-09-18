@@ -1,360 +1,147 @@
-<!-- ========================================================= -->
-<!--                    MOHAMMED ASLAM                         -->
-<!--                 GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Mohammed%20Aslam%20M&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Junior%20Software%20Developer%20%7C%20Full%20Stack%20(React%20%C2%B7%20Node%20%C2%B7%20PostgreSQL)&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohammed+Aslam+%F0%9F%91%8B;Junior+Software+Developer;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Real-World+SaaS+Applications" alt="Typing SVG" />
+<a href="https://linkedin.com/in/mohammedaslam0106">
+  <img src="https://img.shields.io/badge/LinkedIn-mohammedaslam0106-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mohammedaslam7094@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mohammedaslam7094%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+917094171290">
+  <img src="https://img.shields.io/badge/Phone-%2B91%207094171290-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/>
 
-<p>
-  <a href="https://github.com/mohammedaslam7094-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohammedaslam0106">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohammedaslam7094@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=mohammedaslam7094-dotcom&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+full-stack+SaaS+apps+for+travel%2C+billing+%26+ERP;React.js+%7C+Node.js+%7C+Express.js+%7C+PostgreSQL+%7C+Prisma;Shipping+with+AI-assisted+dev+%E2%80%94+Cursor%2C+Claude%2C+Antigravity;Mentored+16%2B+interns+%7C+10%2B+REST+APIs+shipped" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
----
+## 👋 About Me
 
-<!-- ========================================================= -->
-<!--                         ABOUT                              -->
-<!-- ========================================================= -->
+I'm a **Junior Software Developer** at **Jaz Infotech** with 1+ year of hands-on experience building and shipping full-stack SaaS applications across **travel, billing, membership, and social platforms**. I own features end-to-end — frontend, backend, and database — and use modern AI-assisted tools to move fast without sacrificing code quality.
 
-## 👨‍💻 About Me
+- 🔭 Currently building order-management, billing, and travel platforms with **React.js + Node.js + PostgreSQL/Prisma**
+- 🧑‍🏫 Mentored **16+ interns**, reviewing code and promoting clean coding practices
+- 🤖 Comfortable pairing with AI tools (**Cursor, Claude, Antigravity**) inside my dev workflow
+- 🎓 B.Sc. Computer Science, Sadakathullah Appa College, Tirunelveli (2021–2024)
+- 📫 Reach me at **mohammedaslam7094@gmail.com**
 
-```js
-const mohammedAslam = {
-    name: "Mohammed Aslam",
-    role: "Junior Software Developer",
-    location: "Tirunelveli, Tamil Nadu, India",
+<br/>
 
-    experience: "1+ Year",
+## 🛠️ Tech Stack
 
-    focus: [
-        "Full-Stack Development",
-        "SaaS Applications",
-        "Business Applications",
-        "REST API Development"
-    ],
-
-    frontend: [
-        "React.js",
-        "React Native",
-        "JavaScript",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Nest.js",
-        "PHP",
-        "Laravel"
-    ],
-
-    database: [
-        "PostgreSQL",
-        "MySQL",
-        "Prisma ORM"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    currentlyDoing:
-        "Building and maintaining full-stack applications"
-};
-⚡ What I Do
-<table> <tr> <td width="25%" align="center">
-🎨
-
-Frontend
-
-React.js
-React Native
-JavaScript
-Tailwind CSS
-
-</td> <td width="25%" align="center">
-⚙️
-
-Backend
-
-Node.js
-Express.js
-Nest.js
-Laravel
-
-</td> <td width="25%" align="center">
-🗄️
-
-Database
-
-PostgreSQL
-MySQL
-Prisma ORM
-
-</td> <td width="25%" align="center">
-🚀
-
-Engineering
-
-REST APIs
-Responsive UI
-Debugging
-Clean Code
-
-</td> </tr> </table>
-🛠️ Tech Stack
-<div align="center">
-Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-
-<br/><br/>
-
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
-
-<br/><br/>
-
-Database
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-
-<br/><br/>
-
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </div>
-🚀 Featured Projects
-<br/> <table> <tr> <td width="50%" valign="top">
-📦 Order Management
-Billing & Business Platform
-
-A full-stack business platform for managing sales, purchases, customers, suppliers and invoices.
-
-Stack
-
-React.js Node.js
-Express.js PostgreSQL Prisma
-
-Key Features
-
-Customer & supplier management
-Sales & purchase transactions
-Finance management
-Multi-template invoicing
-Responsive dashboard
-</td> <td width="50%" valign="top">
-✈️ Travlinks
-Tours & Travels Platform
-
-A management platform for travel operators to manage tour packages, vehicles and trips.
-
-Stack
-
-React.js Node.js
-Express.js PostgreSQL Prisma
-
-Key Features
-
-Tour package management
-Vehicle management
-Trip planning
-Trip tracking
-Trip cost calculation
-Automated invoicing
-</td> </tr> <tr> <td width="50%" valign="top">
-🏢 Muthuvel ERP
-Enterprise Resource Planning
-
-Business management platform for handling orders, purchases, customers and suppliers.
-
-Stack
-
-React.js Laravel MySQL
-
-Key Features
-
-Order management
-Purchase management
-Customer management
-Supplier management
-CRM
-Invoice generation
-</td> <td width="50%" valign="top">
-🤝 Join Me
-Social Matching Mobile App
-
-A mobile application that connects users with like-minded people for shared activities.
-
-Stack
-
-React Native Nest.js
-PostgreSQL Tailwind CSS
-
-Key Features
-
-User registration
-Authentication
-User matching
-Social connections
-Activity discovery
-</td> </tr> <tr> <td width="50%" valign="top">
-🎾 Club App
-Tennis Court Management
-
-Membership and tennis court session management platform.
-
-Stack
-
-React.js Laravel MySQL
-
-Key Features
-
-Membership management
-Court sessions
-Member data
-Session activity
-Admin workflows
-</td> <td width="50%" valign="top">
-🎨 Interior Design Viewer
-Interactive Design Platform
-
-Application for exploring interior layouts and estimating project costs.
-
-Stack
-
-HTML CSS JavaScript
-Tailwind CSS PHP MySQL
-
-Key Features
-
-Interior layouts
-Materials management
-Budget planner
-Automated quotations
-Admin panel
-Responsive design
-</td> </tr> </table>
-💼 Professional Experience
-Jaz Infotech
-
-Junior Software Developer
-Mar 2025 — Present
-
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  Full-Stack SaaS Development                             │
-│                                                          │
-│  • Frontend development                                  │
-│  • Backend API development                               │
-│  • PostgreSQL / Prisma database work                     │
-│  • Booking & trip workflows                              │
-│  • Billing & invoicing                                   │
-│  • Order management                                      │
-│  • Production debugging                                  │
-│  • Responsive UI development                             │
-│  • 10+ REST API integrations                             │
-│  • Mentored 16+ interns                                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-Jaz Infotech
-
-WordPress & SEO Intern
-Sep 2024 — Feb 2025
-
-Worked on WordPress development, responsive websites, plugin integration, on-page SEO, analytics and performance optimization.
-
-Jaz Infotech
-
-Web Development Intern
-Sep 2024 — Feb 2025
-
-Worked with HTML, CSS, JavaScript, Tailwind CSS, PHP and MySQL while contributing to responsive interfaces and frontend debugging.
-
-📊 GitHub Analytics
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedaslam7094-dotcom&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaslam7094-dotcom&layout=compact&hide_border=true&theme=tokyonight" />
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-</div> <br/> <div align="center">
+**Database**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-<img src="https://streak-stats.demolab.com?user=mohammedaslam7094-dotcom&theme=tokyonight&hide_border=true" />
+**Tools & AI-Assisted Dev**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 
 </div>
-📈 Contribution Graph
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**Junior Software Developer** — Jaz Infotech &nbsp;`Mar 2025 – Present`
+- Full-stack SaaS delivery across travel, order-management & billing systems
+- Built & integrated 10+ REST APIs; optimized DB queries for performance
+- Mentored 16+ interns through code reviews & task planning
+
+</td>
+</tr>
+<tr>
+<td>
+
+**WordPress & SEO Intern** — Jaz Infotech &nbsp;`Sep 2024 – Feb 2025`
+- Theme/plugin setup, on-page SEO, Analytics & Search Console optimization
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Web Development Intern** — Jaz Infotech &nbsp;`Sep 2024 – Feb 2025`
+- Responsive pages with HTML/CSS/JS/Tailwind + PHP/MySQL functionality
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Order Management & Billing System** | React · Tailwind · Node · Express · PostgreSQL · Prisma | Full billing platform with multi-template invoicing & party (customer/supplier) management |
+| **Travlinks — Tours & Travels Platform** | React · Tailwind · Node · Express · PostgreSQL · Prisma | Trip costing engine + automated, trip-specific invoicing |
+| **Club App — Tennis Court Management** | React · Tailwind · Laravel · MySQL | Membership management & session scheduling for club admins |
+| **Join Me — Social Matching Mobile App** | React Native · Tailwind · Nest.js · PostgreSQL | Auth, registration & matching flows for shared-activity partners |
+| **Muthuvel ERP** | React · Tailwind · Laravel · MySQL | ERP with invoicing + CRM modules for orders, purchases & customers |
+| **Interior Design Viewer** *(personal client)* | HTML/CSS/JS · Tailwind · PHP · MySQL | Layout visualizer with materials manager, budget planner & auto-quotation |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedaslam0106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaslam0106&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaslam0106&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedaslam0106&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedaslam7094-dotcom&theme=tokyo-night&hide_border=true" />
+### 🌐 Let's Connect
+
+<a href="https://linkedin.com/in/mohammedaslam0106"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohammedaslam7094@gmail.com"><img src="https://img.shields.io/badge/-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
-🐍 Contribution Snake
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohammedaslam7094-dotcom/mohammedaslam7094-dotcom/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-💻 Developer Terminal
-┌──[mohammed@github]─[~/profile]
-│
-├── $ whoami
-│   Mohammed Aslam
-│
-├── $ role
-│   Junior Software Developer
-│
-├── $ location
-│   Tirunelveli, Tamil Nadu, India
-│
-├── $ stack
-│   React / Node / PostgreSQL / Laravel
-│
-├── $ experience
-│   1+ Year
-│
-├── $ api
-│   10+ REST APIs
-│
-├── $ mentoring
-│   16+ Interns
-│
-└── $ status
-    Building useful software...
-🎓 Education
-Bachelor of Science — Computer Science
-
-Sadakathullah Appa College, Tirunelveli
-
-2021 — 2024
-
-CGPA: 7.5
-
-📫 Let's Connect
-<div align="center">
-Have an idea? Let's build it.
-<br/> <a href="mailto:mohammedaslam7094@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/mohammedaslam0106"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/mohammedaslam7094-dotcom"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```
